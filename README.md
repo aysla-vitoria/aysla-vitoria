@@ -21,6 +21,16 @@ Apaixonada por resolver problemas através da programação e por fortalecer a s
 
 ---
 
+### 🎯 Áreas de Interesse
+- 🛡️ **Cybersecurity:** Pentest, Segurança Defensiva e Análise de Vulnerabilidades.
+- ☕ **Backend Development:** Arquitetura de sistemas robustos com Java e Spring Boot.
+- 🏗️ **Infraestrutura & Redes:** Configuração de ambientes Linux, Servidores e Segurança de Redes.
+- 🛠️ **Suporte Técnico & Troubleshooting:** Resolução de problemas complexos e suporte especializado ao utilizador.
+- 🤖 **Automação:** Criação de scripts inteligentes com Python e Bash para otimização de processos.
+- 📊 **Data Intelligence:** Modelagem de bases de dados relacionais e otimização de queries SQL.
+
+---
+
 ### 💻 Stack Tecnológica:
 
 #### 🎨 Front-end
