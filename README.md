@@ -62,12 +62,6 @@ Monitor de intrusão em tempo real que analisa logs do sistema para detectar e a
 **Tecnologias:** Bash • Linux Auth Logs • RegEx • HIDS
 [Ver Repositório](https://github.com/aysla-vitoria/linux-ssh-monitor)
 
----
-
-### 🚗 Lustro (Exemplo)
-Back-end de sistema de agendamento para lava jato com autenticação JWT e API REST.
-**Tecnologias:** Python • Flask • SQLAlchemy • MySQL • Pytest
-[Ver Repositório](https://github.com/seu-usuario/lustro)
 
 ---
 
