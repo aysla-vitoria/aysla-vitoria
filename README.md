@@ -17,7 +17,7 @@ Apaixonada por resolver problemas através da programação e por fortalecer a s
 
 ### 📫 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysla-nascimento/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentaysla@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayslanasciment@gmail.com)
 
 ---
 
