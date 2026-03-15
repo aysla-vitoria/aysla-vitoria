@@ -15,6 +15,12 @@ Apaixonada por resolver problemas através da programação e por fortalecer a s
 
 ---
 
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysla-nascimento/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentaysla@gmail.com)
+
+---
+
 ### 💻 Stack Tecnológica:
 
 #### 🎨 Front-end
@@ -31,6 +37,7 @@ Apaixonada por resolver problemas através da programação e por fortalecer a s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 #### 🛠️ Ferramentas & Ambiente
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -41,12 +48,32 @@ Apaixonada por resolver problemas através da programação e por fortalecer a s
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ---
+## 📌 Projetos em Destaque
+
+### 🛡️ Web Vulnerability Scanner
+Ferramenta desenvolvida para auditoria de segurança web, focada na detecção de vulnerabilidades de configuração e headers de segurança ausentes.
+**Tecnologias:** Java • HTTP API • Segurança Ofensiva
+[Ver Repositório](https://github.com/aysla-vitoria/web-vulnerability-scanner)
+
+---
+
+### 🕵️ SSH Real-Time Monitor
+Monitor de intrusão em tempo real que analisa logs do sistema para detectar e alertar sobre tentativas de ataques de Brute Force via SSH.
+**Tecnologias:** Bash • Linux Auth Logs • RegEx • HIDS
+[Ver Repositório](https://github.com/aysla-vitoria/linux-ssh-monitor)
+
+---
+
+### 🚗 Lustro (Exemplo)
+Back-end de sistema de agendamento para lava jato com autenticação JWT e API REST.
+**Tecnologias:** Python • Flask • SQLAlchemy • MySQL • Pytest
+[Ver Repositório](https://github.com/seu-usuario/lustro)
+
+---
 
 ### 📊 My GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aysla-vitoria&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aysla-vitoria&layout=compact&theme=dark)
 
----
 
-### 📫 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysla-nascimento/)
+
