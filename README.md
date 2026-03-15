@@ -1,60 +1,48 @@
-<h1 align="center">Oiê! Eu sou a Aysla 👩‍💻</h1>
+<h2 align="left">Hi 👋! My name is Aysla Vitória and I'm a Software Developer & Security Student, from Brazil.</h2>
+###
 
-<p align="center">
-  🌍 Barbalha - CE | 💡 Exploradora de ideias | 🐧 Fã de Linux e café forte
-</p>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🚀 Sobre mim
+###
 
-- 🎓 Estudante em constante evolução no mundo da tecnologia  
-- 🧠 Aprendendo Git, GitHub, algoritmos e comandos mágicos no terminal  
-- ☕ Fã de Linux, café forte e desafios que fazem pensar  
-- 💻 Estudando **Java** e explorando os fundamentos da **cibersegurança**  
-- 💬 Gosto de compartilhar o que aprendo e transformar erros em aprendizado  
-- 🎯 Objetivo: dominar o universo dev e criar projetos que façam a diferença
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-### 🛠️ Tecnologias que estou aprendendo
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 📂 Repositórios em destaque
+###
 
-| Projeto | Descrição |
-|--------|-----------|
-| [`dio-desafio-github-primeiro-repo`](https://github.com/aysla-vitoria/dio-desafio-github-primeiro-repo) | Meu primeiro desafio com Git e GitHub — o começo da jornada 🚀 |
-| [`linux-projeto1`](https://github.com/aysla-vitoria/linux-projeto1) | Scripts e comandos do meu primeiro projeto com Linux 🐧 |
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### 📚 Links úteis para meus estudos
-
-- [Curso de Java - Curso em Vídeo](https://www.cursoemvideo.com/curso/java/)
-- [Fundamentos de Cibersegurança - Cisco Networking Academy](https://www.netacad.com/courses/cybersecurity)
-- [Guia de comandos Linux](https://linuxcommand.org/)
-  
----
-
-### 📊 Estatísticas
-
-![Aysla's GitHub stats](https://github-readme-stats.vercel.app/api?username=aysla-vitoria&show_icons=true&theme=dracula)
-
----
-
-### 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aysla-blue?style=flat&logo=linkedin)](www.linkedin.com/in/aysla-nascimento)  
-[![GitHub](https://img.shields.io/badge/GitHub-aysla--vitoria-black?style=flat&logo=github)](https://github.com/aysla-vitoria)
-
----
-
-> “A cada script que eu escrevo, uma nova porta se abre.” 🚪✨
-
+###
